@@ -1,10 +1,10 @@
 {
-  "name": "react-native-stripe-2019",
+  "name": "react-native-stripe-shop",
   "version": "0.0.1",
   "description": "Stripe module for react-native. Based of BamLab",
   "main": "index.js",
-  "homepage": "https://github.com/shopped/react-native-stripe-2019",
-  "files": ["README.md", "index.js", "ios", "android", "react-native-stripe.podspec"],
+  "homepage": "https://github.com/shopped/react-native-stripe-shop",
+  "files": ["README.md", "index.js", "ios", "android", "react-native-stripe-shop.podspec"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

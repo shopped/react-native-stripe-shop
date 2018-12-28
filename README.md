@@ -1,5 +1,5 @@
 
-# react-native-stripe-2019
+# react-native-stripe-shop
 
 Basic Stripe integration with React Native. *Oh and also npm install friendly!*
 
@@ -7,7 +7,7 @@ The project just started, feel free to contribute. Forked from bamlab.
 
 ## Getting started
 
-`$ npm install react-native-stripe-2019 --save`
+`$ npm install react-native-stripe-shop --save`
 
 ### Installation
 
