@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license        = package['license']
   s.author         = package['author']
   s.homepage       = package['homepage']
-  s.source         = { :git => "https://github.com/bamlab/react-native-stripe.git", :tag => "master" }
+  s.source         = { :git => "https://github.com/shopped/react-native-stripe-shop.git", :tag => "master" }
 
   s.requires_arc = true
   s.platform     = :ios, "8.0"
