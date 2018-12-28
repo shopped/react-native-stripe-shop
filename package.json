@@ -1,15 +1,15 @@
 {
-  "name": "react-native-stripe",
+  "name": "react-native-stripe-2019",
   "version": "0.0.1",
-  "description": "Stripe module for react-native",
+  "description": "Stripe module for react-native. Based of BamLab",
   "main": "index.js",
-  "homepage": "https://github.com/bamlab/react-native-stripe",
-  "files": ["README.md", "index.js", "ios", "android"],
+  "homepage": "https://github.com/shopped/react-native-stripe-2019",
+  "files": ["README.md", "index.js", "ios", "android", "react-native-stripe.podspec"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["react-native"],
-  "author": "Nicolas Djambazian <nicolasd@bam.tech",
+  "author": "Patrick Carroll <pat@patriick.com>",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
